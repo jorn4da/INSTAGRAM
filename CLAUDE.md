@@ -13,7 +13,7 @@ Página igual ao Linktree do @aritan_especialista, para usar no link da bio do I
 2. Simulador | Descubra quanto você pode financiar → https://simulador-aritan.netlify.app/
 3. 📍Cury | Rio de Janeiro → https://curyoficial.com/
 4. Estamos contratando: Corretor de Imóveis → https://vaga-corretor-aritan.netlify.app/
-Ícones animados (giram igual, classe .spin): Saiba Mais e Cury.
+Animações: Saiba Mais gira (.spin); logo Cury tem onda de luz subindo pelas faixas (.cury-wave, máscara CSS com img/thumb-cury.webp).
 Redes: Instagram, WhatsApp (5521959434519), TikTok, Threads (@aritan_especialista).
 
 ## Rastreamento
