@@ -4,7 +4,8 @@ Página igual ao Linktree do @aritan_especialista, para usar no link da bio do I
 
 - Repo: jorn4da/INSTAGRAM (GitHub = fonte da verdade)
 - Pasta no Mac: ~/Claude/Projects/Programador | SITE E LANDING PAGE/INSTAGRAM
-- Publicar: dois cliques em PUBLICAR-INSTAGRAM.command (push no GitHub). Netlify: criar o site importando o repo (publish = ".").
+- No ar: https://aritan.netlify.app (Netlify, projeto "aritan", time Jornada). Push no main publica sozinho.
+- Publicar: dois cliques em PUBLICAR-INSTAGRAM.command (push no GitHub).
 - Arquivo único: index.html (HTML + CSS + JS inline, sem dependências). Imagens em img/.
 
 ## Links (ordem do Linktree)
